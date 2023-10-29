@@ -1,0 +1,40 @@
+﻿  BreakOut.cpp
+E:\MyGames\BreakOut_1.0.0\Deps\Includes\mythings\shader.h(7,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+E:\MyGames\BreakOut_1.0.0\Deps\Includes\mythings\shader.h(143,7): warning C4101: “infoLog”: 未引用的局部变量
+E:\MyGames\BreakOut_1.0.0\Deps\Includes\mythings\shader.h(142,6): warning C4101: “success”: 未引用的局部变量
+E:\MyGames\BreakOut_1.0.0\Deps\Includes\mythings\_mesh.h(131,43): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+E:\MyGames\BreakOut_1.0.0\Deps\Includes\mythings\game\textRenderer.h(122,24): warning C4838: 从“FT_Pos”转换到“unsigned int”需要收缩转换
+E:\MyGames\BreakOut_1.0.0\Deps\Includes\mythings\game\gameLevel.h(83,22): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+E:\MyGames\BreakOut_1.0.0\Deps\Includes\mythings\game\gameLevel.h(84,21): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+E:\MyGames\BreakOut_1.0.0\Deps\Includes\mythings\game\gameLevel.h(86,20): warning C4244: “初始化”: 从“unsigned int”转换到“float”，可能丢失数据
+E:\MyGames\BreakOut_1.0.0\Deps\Includes\mythings\game\game.h(334,30): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\MyGames\BreakOut_1.0.0\BreakOut\BreakOut\BreakOut.cpp(56,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  stb_image.cpp
+  正在生成代码...
+  glad.c
+freetype.lib(ftinit.obj) : warning LNK4099: 未找到 PDB“”(使用“freetype.lib(ftinit.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(ftbase.obj) : warning LNK4099: 未找到 PDB“”(使用“freetype.lib(ftbase.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(autofit.obj) : warning LNK4099: 未找到 PDB“”(使用“freetype.lib(autofit.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(truetype.obj) : warning LNK4099: 未找到 PDB“”(使用“freetype.lib(truetype.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(type1.obj) : warning LNK4099: 未找到 PDB“”(使用“freetype.lib(type1.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(cff.obj) : warning LNK4099: 未找到 PDB“”(使用“freetype.lib(cff.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(type1cid.obj) : warning LNK4099: 未找到 PDB“”(使用“freetype.lib(type1cid.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(pfr.obj) : warning LNK4099: 未找到 PDB“”(使用“freetype.lib(pfr.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(type42.obj) : warning LNK4099: 未找到 PDB“”(使用“freetype.lib(type42.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(winfnt.obj) : warning LNK4099: 未找到 PDB“”(使用“freetype.lib(winfnt.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(pcf.obj) : warning LNK4099: 未找到 PDB“”(使用“freetype.lib(pcf.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(psaux.obj) : warning LNK4099: 未找到 PDB“”(使用“freetype.lib(psaux.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(psmodule.obj) : warning LNK4099: 未找到 PDB“”(使用“freetype.lib(psmodule.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(pshinter.obj) : warning LNK4099: 未找到 PDB“”(使用“freetype.lib(pshinter.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(raster.obj) : warning LNK4099: 未找到 PDB“”(使用“freetype.lib(raster.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(sfnt.obj) : warning LNK4099: 未找到 PDB“”(使用“freetype.lib(sfnt.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(smooth.obj) : warning LNK4099: 未找到 PDB“”(使用“freetype.lib(smooth.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(bdf.obj) : warning LNK4099: 未找到 PDB“”(使用“freetype.lib(bdf.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(ftsystem.obj) : warning LNK4099: 未找到 PDB“”(使用“freetype.lib(ftsystem.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(ftgzip.obj) : warning LNK4099: 未找到 PDB“”(使用“freetype.lib(ftgzip.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+    正在创建库 E:\MyGames\BreakOut_1.0.0\BreakOut\x64\Debug\BreakOut.lib 和对象 E:\MyGames\BreakOut_1.0.0\BreakOut\x64\Debug\BreakOut.exp
+freetype.lib(ftlzw.obj) : warning LNK4099: 未找到 PDB“”(使用“freetype.lib(ftlzw.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(ftbitmap.obj) : warning LNK4099: 未找到 PDB“”(使用“freetype.lib(ftbitmap.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(ftdebug.obj) : warning LNK4099: 未找到 PDB“”(使用“freetype.lib(ftdebug.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  BreakOut.vcxproj -> E:\MyGames\BreakOut_1.0.0\BreakOut\x64\Debug\BreakOut.exe
